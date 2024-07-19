@@ -79,7 +79,7 @@ pyuic5 -x login.ui -o login.py
 
 2. **Toolbar Menu**: 
 It allows you to create a new team, open an existing team, save your team, and finally evaluate the score of a saved team.
-   - ![Toolbar Menu](./Screenshots/2.PNG)
+   - ![Toolbar Menu](Screenshots/2_Tool_menu.png)
 
 3. **New Team Selection**: 
 After clicking New Team, the left box is populated with player names. As you select a different category, the corresponding list of players is displayed.
