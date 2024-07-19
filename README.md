@@ -106,3 +106,7 @@ The final score for your fantasy team based on the match selected.
 
 See the [Documentation](https://drive.google.com/file/d/1HPbOgW8LuOw4UV3JVCvhOIjrOSVqy8zW/view?usp=sharing).
 
+## Authors
+
+- [@Lucky Verma](https://github.com/Lucky9451)
+
